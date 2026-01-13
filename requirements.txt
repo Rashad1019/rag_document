@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-chroma
+pypdf
+langchain-google-genai
+langchain-huggingface
+langchain-ollama
+python-dotenv

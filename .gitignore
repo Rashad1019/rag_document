@@ -1,0 +1,8 @@
+.env
+.venv/
+venv/
+__pycache__/
+chroma_db/
+*.pdf
+!Building a Multi-Document RAG System _ Aman Kharwal.pdf
+!assets/*.mp4
