@@ -74,8 +74,8 @@ Check out the demo recording:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Rashad1019/the_agency.git
-cd the_agency
+git clone https://github.com/Rashad1019/rag_document.git
+cd rag_document
 ```
 
 ### 2. Install Dependencies
@@ -264,8 +264,8 @@ This project is open source and available under the MIT License. See `LICENSE` f
 
 ```bash
 # Quick Start (Gemini Mode)
-git clone https://github.com/Rashad1019/the_agency.git
-cd the_agency
+git clone https://github.com/Rashad1019/rag_document.git
+cd rag_document
 pip install -r requirements.txt
 # Add your GOOGLE_API_KEY to .env
 # Drop PDFs into data/
